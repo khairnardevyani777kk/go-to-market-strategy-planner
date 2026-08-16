@@ -1,0 +1,22 @@
+Create a realistic premium enterprise SaaS dashboard titled “Go-To-Market Strategy Planner for New Product Launch”.
+
+Show the entire dashboard on one screen with no cropping. Include:
+- Executive KPI cards: Market Opportunity, Expected Revenue, Conversion Rate, CAC, Launch Readiness
+- TAM-SAM-SOM chart
+- Target customer segments and persona summary
+- Competitor comparison
+- Pricing comparison
+- Acquisition channel performance
+- Funnel: Awareness → Interest → Lead → Qualified Lead → Demo/Trial → Conversion → Activation → Retention
+- Revenue forecast
+- Launch readiness score
+- GTM risk matrix
+- 30-60-90 roadmap
+- Strategic recommendations
+- Filters for Region, Segment, Channel, Product Category and Launch Phase
+
+Use a premium modern SaaS enterprise interface, clean typography, professional analytics and polished portfolio quality.
+
+Story: MARKET → CUSTOMER → POSITIONING → CHANNEL → ACQUISITION → CONVERSION → REVENUE → LAUNCH → GROWTH.
+
+Suitable for GitHub README, LinkedIn, resume portfolio and interview presentation.
